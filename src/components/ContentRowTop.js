@@ -1,5 +1,4 @@
 import React from "react";
-import Mandalorian from "../assets/images/mandalorian.jpg"
 import ContentRowMovies from "./ContentRowMovies";
 import LastMovieInDb from "./LastMovieInDb";
 import GenresInDb from "./GenresInDb";

@@ -1,4 +1,5 @@
 import React from 'react';
+import Mandalorian from "../assets/images/mandalorian.jpg"
 
 function LastMovieInDb(){
     return(
